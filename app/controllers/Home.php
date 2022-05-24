@@ -1,23 +1,14 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: welcome
- * Date: 2020-09-22
- * Time: 12:39
- */
 
 class Home extends Controller
 {
     function __construct()
     {
+        parent::__construct();
     }
 
     function index() {
-        $this->smarty->display("index.tpl");
-    }
-
-    function welcome() {
-        echo "we are here";
+        $this->load_view("home");
     }
 
 }

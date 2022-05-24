@@ -1,18 +1,18 @@
 <?php
+/**
+ * Created by PhpStorm.
+ * User: Ashiraff Tumusiime
+ * Company: Boosted Technologies LTD
+ * Date: 7/19/21
+ * Time: 9:52 AM
+ */
 
-//Auto load the following classes
+/*
+ * Autoload Libraries and Helpers from Here
+ */
 
-//Configuration
-//Provide the file name and main class in that file for each class added
-$database = array("database.config" => "Database");
-
-
-//controllers
-$controllers = array();
-
-//models
-
-$models = array();
-
-//Inputs
-$inputs = array ("inputs" => "Input");
+/*
+ * Helpers
+ *
+ * It is in file class order
+ */

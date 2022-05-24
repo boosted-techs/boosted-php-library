@@ -1,0 +1,1 @@
+{extends file="admin/index.tpl"}
