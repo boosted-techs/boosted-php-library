@@ -93,7 +93,7 @@ if ( !defined('APPLICATION_LOADED') || ! APPLICATION_LOADED ) {
         <h4>Installation</h4>
         <p>To install BPL, Download or clone BPL to your webfolder from github repo <a href="https://github.com/boosted-techs/boosted-php-library">boosted-techs/boosted-php-library</a> then create a virtual host with your system.</p>
         <p>Instructions to create a virtual host</p>
-        <p><a href="https://stackoverflow.com/questions/35668594/create-a-virtual-host-in-xamp-windows-10">How to create a virtual host on windows 10 with XAMPP</a></p>
+        <p><a href="https://stackoverflow.com/questions/35668594/create-a-virtual-host-in-xamp-windows-10">How to create a virtual host on Windows 10 with XAMPP</a></p>
     </div>
     <div class="card-footer bg-transparent">
         <a href="https://www.boostedtechs.com" class="text-decoration-none">Boosted Technologies</a>
