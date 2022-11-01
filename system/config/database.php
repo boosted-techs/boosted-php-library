@@ -44,7 +44,7 @@ $gateway_DB_config['password'] = 'root';
 /*
  * Mysql database to work with
  */
-$gateway_DB_config['database'] = 'boosted_payment_sms_gateway';
+$gateway_DB_config['database'] = '';
 
 /**
  * Redis
